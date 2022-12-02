@@ -1,6 +1,6 @@
 const express = require('express');
 const mongoose =require ('mongoose');
-const bodyparser =reequire('body-parser');
+const bodyparser =require('body-parser');
 
 const app =express();
 
